@@ -10,8 +10,8 @@ TR0N: Translator Networks for 0-Shot Plug-and-Play Conditional Generation
 </h1>
   
 <p align="center">
-  <a href='https://arxiv.org/abs/2210.02347'><img src='https://img.shields.io/badge/arXiv-2210.02347-b31b1b.svg' /></a>
-  <a href='https://huggingface.co/spaces/lambdalabs/clip2latent-demo'><img src='https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-orange' /></a>
+  <a href='https://arxiv.org/abs/2304.13742'><img src='https://img.shields.io/badge/arXiv-2304.13742-b31b1b.svg' /></a>
+  <a href='https://huggingface.co/spaces/Layer6/TR0N'><img src='https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-orange' /></a>
 </p>
   
 <h4>
@@ -24,7 +24,7 @@ TR0N: Translator Networks for 0-Shot Plug-and-Play Conditional Generation
 <a name="intro"/>
 
 ## Introduction
-This repository contains the official implementation of our **ICML 2023** paper. It includes both translator training and TR0N sampling code.
+This repository contains the official implementation of our **ICML 2023** paper. It includes both training and sampling code.
 
 <a name="install"/>
 
