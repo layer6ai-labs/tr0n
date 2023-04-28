@@ -1,0 +1,7 @@
+python train.py --exp_name='gmm_syn_ffhq_nvae1000000_z_temp_06_mean7_10ep_16bs_1e4lr_cosine_0wd_skip_10mix_1e4_02noise' \
+        --dataset_name='synthetic_nvae' --dec_type='nvae' --nvae_model='ffhq' --z_truncation=0.6 \
+        --num_epochs=10 --save_every=10 --log_step=100 --eval_every=2 \
+        --batch_size=16 --train_loss='nll_latent' --val_loss='cosine_latent' --lr=1e-4 --optim='adam' \
+        --scheduler='cosine' --weight_decay=0.0 --synthetic_latents_path='syn_ffhq_nvae1000000_z_temp_06_mean7' \
+        --with_gmm --num_mixtures=10 --alpha_nll=1e-4 \
+        --add_clip_noise --clip_noise_scale=0.2

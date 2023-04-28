@@ -1,0 +1,13 @@
+torch
+torchvision
+ftfy
+h5py
+regex
+tqdm
+Ninja
+transformers
+tensorboard
+pytorch-fid
+open-clip-torch
+pycocotools
+git+https://github.com/openai/CLIP.git

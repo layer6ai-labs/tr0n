@@ -1,0 +1,9 @@
+*.pyc
+*.pth
+*.pt
+__pycache__/
+logs/
+outputs/
+build/
+*.egg-info/
+pyrightconfig.json
