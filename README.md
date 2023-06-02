@@ -16,7 +16,7 @@ TR0N: Translator Networks for 0-Shot Plug-and-Play Conditional Generation
   
 <h4>
 <b>
-<a href="https://www.linkedin.com/in/zhaoyan-liu-9309aa180/">Zhaoyan Liu*</a>, <a href="https://www.cs.toronto.edu/~nvouitsis/">Noël Vouitsis*</a>, <a href="https://www.cs.toronto.edu/~satyag/">Satya Krishna Gorti</a>, <a href="https://jimmylba.github.io/">Jimmy Ba</a>, Gabriel Loaiza-Ganem    
+<a href="https://www.linkedin.com/in/zhaoyan-liu-9309aa180/">Zhaoyan Liu*</a>, <a href="https://www.cs.toronto.edu/~nvouitsis/">Noël Vouitsis*</a>, <a href="https://www.cs.toronto.edu/~satyag/">Satya Krishna Gorti</a>, <a href="https://jimmylba.github.io/">Jimmy Ba</a>, <a href="https://sites.google.com/view/gabriel-loaiza-ganem/">Gabriel Loaiza-Ganem</a>   
 </b>
 </h4>
 </div>
